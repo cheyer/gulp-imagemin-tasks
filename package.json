@@ -1,0 +1,17 @@
+{
+  "name": "gulp-imagemin-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-imagemin": "^3.3.0",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.1"
+  }
+}
