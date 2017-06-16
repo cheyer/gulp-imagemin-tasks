@@ -4,6 +4,8 @@
 `npm install`
 
 ## usage
+Put images to be minified in the `images/` folder. Minified images can be found in the `dist/` folder.
+
 `gulp jpg` for jpg images
 
 `gulp png` for png images
